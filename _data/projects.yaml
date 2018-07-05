@@ -1,13 +1,10 @@
-- name: Oh My Macarons
-  url: https://en.wikipedia.org/wiki/Macaron
-  date: 2014
+- name: radio-canto
+  url: https://github.com/neihousaigaai/radio-canto
+  date: 2017-now
   thumbnail: /images/macaron.jpg
-  languages: [French]
-  frameworks: [Oven]
+  languages: [Cantonese, Mandarin, English, Vietnamese]
   desc: >
-    Rose, vanilla, lavender, apricot, hazelnut, orange blossom, salted caramel,
-    honey, chocolate, lemon, strawberry, almond, coffee, foie gras, coconut,
-    passionfruit, pepercorn, raspberry, blueberry, and pistachio.
+    My DIY subtitle files (ass, srt), lyric file (lrc) of music & film.
 - name: Beer is the Best
   url: https://en.wikipedia.org/wiki/Beer
   date: 2012-now

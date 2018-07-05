@@ -1,10 +1,3 @@
-Lemma Theme
-===========
+# music-n-film
 
-Lemma is yet another simple responsive theme for Jekyll.
-
-
-License
--------
-
-- MIT
+My personal blog about music & film.

@@ -1,39 +1,65 @@
 # user variables, change this to make custom site.
 
-name: Lemma
-desc: Yet another simple theme for Jekyll.
+name: Music n Film
+desc: My music and film blog
 author:
-  name: neizod
-  avatar: //gravatar.com/avatar/daa1cc36ed2ab0d13045d5cd2431cde9?s=320
+  name: hkPanda
+  avatar: //gravatar.com/avatar/bc29c767dce2edc719ea3060a6fc978a?s=320
   profile: |
-    Just another ordinary grad student in computer engineering.
-    I'm interest in programming language, algorithm, and mathematics.
-
-    I live in Chiang Mai or Bangkok, Thailand.
-    And you may found me around BarCamp event ;D
+    I love music =))
+    <h4>My favourite singers are...</h4>
+    - Leslie Cheung
+    - Anita Mui
+    - Beyond
+    - Andy Lau
+    - Jacky Cheung
+    - Mickey He
+    <h4>I watched...</h4>
+    - Anh hùng bản sắc I, II, III (英雄本色 I, II, III | A Better Tomorrow I, II, III)
+    - Thiến nữ u hồn I, II, III (倩女幽魂 I, II, III | A Chinese Ghost Story)
+    - Yên chi khâu (胭脂扣 | Rouge)
+    - Tung hoành tứ hải (縱橫四海 | Once A Thief)
+    - Hào môn dạ yến (豪門夜宴 | The Banquet)
+    - Đông thành tây tựu (射鵰英雄傳之東成西就 | The Eagle Shooting Heroes)
+    - Bá Vương biệt Cơ (霸王別姬 | Farewell My Concubine)
+    - Đông Tà Tây Độc (東邪西毒 | Ashes of Time)
+    - Tân bến Thượng Hải (1996) (新上海灘 | )
+    - Sắc tình nam nữ (色情男女 | Viva Erotica)
+    - Phong nguyệt (風月 | Temptress Moon)
+    - Xuân quang xạ tiết (春光乍洩 | Happy Together)
+    - Lưu tinh ngữ (流星語 | The Kid)
+    - Thương vương (鎗王 | Double Tap)
+    - Yên phi yên diệt (煙飛煙滅 | From Ashes To Ashes)
+    - Dị độ không gian (異度空間 | Inner Senses)
+    <h4>I watched non-completely...</h4>
+    - Thất nghiệp sinh (失業生 | Thất nghiệp sinh)
+    - Dương Quá và Tiểu Long Nữ (楊過與小龍女)
+    <h4>I will watch...</h4>
+    - A Phi chính truyện (阿飛正傳 | Days of Being Wild)
+    - Bạch phát ma nữ I (白髮魔女傳 I | The Bride With White Hair I)
+    - Kim chi ngọc diệp I (金枝玉葉 I | He's a Woman, She's a Man)
+    - Kim chi ngọc diệp II (金枝玉葉 II | Who's the Woman, Who's the Man)
   socials:
     facebook:
-    twitter: //twitter.com/neizod
+    twitter: 
     google-plus:
-    github: //github.com/neizod
-    stack-overflow: //stackoverflow.com/users/889578/neizod
+    github: //github.com/hkmusic-film
     instagram:
     pinterest:
-    steam: //steamcommunity.com/id/neizod/
 license: MIT License
 
 
 # theme variables, change this to make site looks best.
-baseurl: /lemma-theme
-paginate: 2
+baseurl: /
+paginate: 8
 
 
 # system variables, do not change unless you knew what's it does.
 paginate_path: page/:num
-highlighter: pygments
-markdown: redcarpet
-redcarpet:
-  extensions: ["tables"]
+highlighter: rouge
+markdown: kramdown
+plugins:
+  - jemoji
 
 defaults:
   - scope:
