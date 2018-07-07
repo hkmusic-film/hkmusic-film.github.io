@@ -54,6 +54,7 @@ Các file toàn wav, flac, ape, chất lượng khỏi bàn. Một số mình c�
 
 - Folder `studio` (tiếng Nhật và tiếng Phổ thông) + folder `concert`: [Link](https://drive.google.com/open?id=1R8wpoORzgc2sY_tNcbpibZnREnGVhaiL)
 
+- Folder `studio` (tiếng Quảng): [Link](https://drive.google.com/open?id=1hQ8AfBfKGkKc4yc27GgSHSSLT6tKyc_S)
 
 ### Danny Trần Bách Cường
 
@@ -80,7 +81,6 @@ Bản mega.nz (chỉ chia làm 2 file: `studio` và `collection`): [Link](https:
 - Folder `studio` và folder `concert`: [Link](https://drive.google.com/open?id=1uQNtUyjxAR15H3Yd6jAVyMEHNX-ldxjk)
 - Folder `re-publish` và folder `other`: [Link](https://drive.google.com/open?id=1qnKidisfKrRaBERx2buh7m__FvHHkjkw)
 
-
 ### Jacky Trương Học Hữu
 
 - Link 175CD nhạc: [Link](https://pan.baidu.com/s/1eRXdoiu) (pass 9glx)
@@ -91,6 +91,7 @@ Bản mega.nz (chỉ chia làm 2 file: `studio` và `collection`): [Link](https:
 Link mới chết nên đang kiếm lại, sẽ share sau.
 
 ## 2. Phim
+
 Mình sẽ share nhiều phim của nhiều diễn viên khác nhau, không phải chỉ có chuyên phim của 1 người nào đó.
 
 - Link tổng hợp của mình: [Link drive](https://drive.google.com/open?id=0B1kcH-uOZSciMkxPdWVTYjdPZDA)
