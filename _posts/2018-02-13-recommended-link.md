@@ -17,7 +17,7 @@ Chỉ cầu cho các acc mega của mình không bay mất, vì mega cho đến 
 
 ## 0. Các tool hữu ích
 
-Xem bài cụ thể ở [đây](2018-05-29-useful-tools.md)
+Xem bài cụ thể ở [đây](/2018/05/29/useful-tools.html)
 
 ## 1. Nhạc
 
