@@ -4,7 +4,7 @@ title: Tổng hợp những link hữu ích
 tags: [link, music, film]
 ---
 
-> *Ctrl-C Ctrl-V from fb page, có chính sửa đôi chút*
+> Ctrl-C + Ctrl-V + may mắn + tìm + type = ...
 
 Sở thích của mình là tìm nhạc lossless và phim HD =))) Mình cũng khá là có duyên khi "tóm" được khá nhiều nhạc và phim xịn ^^ down về kha khá nên khá chật máy =)))
 
@@ -17,21 +17,7 @@ Chỉ cầu cho các acc mega của mình không bay mất, vì mega cho đến 
 
 ## 0. Các tool hữu ích
 
-#### 1. Split file `.cue`
-
-##### Windows
-
-##### Linux
-
-##### MacOS
-
-#### 2. Convert file `.flac`/`.ape`/`.wav` sang `.mp3`
-
-##### Dùng foobar2000
-
-##### Dùng Format Factory
-
-##### 
+Xem bài cụ thể ở [đây](2018-05-29-useful-tools.md)
 
 ## 1. Nhạc
 
@@ -88,17 +74,17 @@ Bản mega.nz (chỉ chia làm 2 file: `studio` và `collection`): [Link](https:
 
 ### Anita Mai Diễm Phương
 
-Link mới chết nên đang kiếm lại, sẽ share sau.
+Link mới chết nên đang kiếm lại, sẽ share sau. Có lẽ việc bắt bản quyền khá chặt nên rất khó tìm được link down album lossless của Mui.
 
 ## 2. Phim
 
 Mình sẽ share nhiều phim của nhiều diễn viên khác nhau, không phải chỉ có chuyên phim của 1 người nào đó.
 
+- Topic tổng hợp film: [Link, chọn tag #film](/tags.html)
 - Link tổng hợp của mình: [Link drive](https://drive.google.com/open?id=0B1kcH-uOZSciMkxPdWVTYjdPZDA)
-- Topic tổng hợp film: [Link, chọn tag #film](https://neihousaigaai.github.io/music-n-film/tags.html)
 
 Một số phim cần lưu ý:
- 
+
 - Beyond's Dairy: Có 2 bản:
   - 1 bản có dual language, có sub Anh, Trung (giản và phồn thể), nhưng tiếng bị lệch so với khẩu hình của diễn viên.
   - 1 bản tiếng Quảng (only), không có sub, tiếng không bị lệch với khẩu hình.
