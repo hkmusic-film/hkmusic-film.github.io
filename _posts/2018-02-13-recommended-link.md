@@ -78,7 +78,7 @@ Link mới chết nên đang kiếm lại, sẽ share sau. Có lẽ việc bắt
 
 ### Hacken Lý Khắc Cần (UPD 29/7/2018)
 
-- Link nguồn 106CD nhạc: http://blog.sina.com.cn/s/blog_6905ce300101k0w6.html
+- Link nguồn 106CD nhạc: [Link](http://blog.sina.com.cn/s/blog_6905ce300101k0w6.html)
 
 <details>
     <summary>Bấm vào đây để xem rõ nếu như không thể lấy link từ trang trên.</summary>
