@@ -556,7 +556,7 @@ Trước có YT channel WJJ Subteam chuyên dịch nhạc Châu Hoa Kiện, Lý 
 
 ### Danny Trần Bách Cường
 
-Không có nguồn Vietsub dồi dào, do ở VN không có nhiều người biết đến anh cũng một phần vì thời gian hoạt động của anh bị lệch về những năm 80 hơn (1979 - 1992).
+Không có nguồn Vietsub dồi dào, do ở VN không có nhiều người biết đến anh cũng một phần vì thời gian hoạt động của anh bị lệch về những năm 80 hơn (1979 - 1992).
 
 - YT channel [kitkit2408](https://www.youtube.com/channel/UCgMZ6vWcjGI-rD98OPvVTGg)
 
