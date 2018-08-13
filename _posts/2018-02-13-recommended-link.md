@@ -534,13 +534,15 @@ Nguồn Vietsub thường xuyên gần như là không có. Có rất ít channe
 
 - YT channel [Beyondmusicnet](https://www.youtube.com/channel/UCMrUEPbUBLvBUAp5kSfsdqA) (hình như là Beyond Fanclub quốc tế).
 
-- YT channel [CXCXC ZX](https://www.youtube.com/channel/UCuwK3avFrb3Uz9eEzVRJwdA), có các bản live của Beyond tại TVB, show tưởng niệm (mới nhất là show tưởng niệm Huỳnh Gia Câu 25 năm vào tháng 6/2018),...; đặc biệt là series 12 tập Beyond放暑假 với size video lớn hơn và đẹp hơn rất nhiều bản các kênh khác chia sẻ (như là được phục chế lại), tất cả những video của kênh này đều có chất lượng rất tốt, có sub Trung (1 điểm trừ là sub tiếng Trung giản thể). Nếu các bạn thường xuyên theo dõi thì sẽ thấy [acc bilibili](https://space.bilibili.com/2695789) hay được gắn vào vid, các bạn có thể vào acc đó để xem.
+> **BIG UPD 13/8/2018**: Hàng loạt các channel đã sập: **`CXCXC ZX`, `NTS`, `Malibu Creek`, `king Chow`**.
 
-- YT channel [NTS](https://www.youtube.com/channel/UCXBwaYFnOGBs23TqHOVtjiw), bạn sẽ được biết rất nhiều những bản nhạc dù đã được phát hành rộng rãi nhưng chưa có nhiều người biết và nghe, những bản demo của Gia Câu, những video phỏng vấn và nhiều video thú vị khác. Quý nhất là radio show về Gia Câu trong những ngày anh nằm viện (cuối tháng 6/1993).
+- YT channel ~~[CXCXC ZX](https://www.youtube.com/channel/UCuwK3avFrb3Uz9eEzVRJwdA)~~, có các bản live của Beyond tại TVB, show tưởng niệm (mới nhất là show tưởng niệm Huỳnh Gia Câu 25 năm vào tháng 6/2018),...; đặc biệt là series 12 tập Beyond放暑假 với size video lớn hơn và đẹp hơn rất nhiều bản các kênh khác chia sẻ (như là được phục chế lại), tất cả những video của kênh này đều có chất lượng rất tốt, có sub Trung (1 điểm trừ là sub tiếng Trung giản thể). Nếu các bạn thường xuyên theo dõi thì sẽ thấy [acc bilibili](https://space.bilibili.com/2695789) hay được gắn vào vid, các bạn có thể vào acc đó để xem.
 
-- YT channel [Malibu Creek](https://www.youtube.com/channel/UCe3KEDIMHpPWikcwX3bA-uQ), tương tự như channel NTS, tuy nhiên có thêm những bản dịch sang tiếng Anh của 1 số bài hát.
+- YT channel ~~[NTS](https://www.youtube.com/channel/UCXBwaYFnOGBs23TqHOVtjiw)~~, bạn sẽ được biết rất nhiều những bản nhạc dù đã được phát hành rộng rãi nhưng chưa có nhiều người biết và nghe, những bản demo của Gia Câu, những video phỏng vấn và nhiều video thú vị khác. Quý nhất là radio show về Gia Câu trong những ngày anh nằm viện (cuối tháng 6/1993).
 
-- YT channel [king Chow](https://www.youtube.com/channel/UCzFsknkoa1BUsap2g_ayqoQ)
+- YT channel ~~[Malibu Creek](https://www.youtube.com/channel/UCe3KEDIMHpPWikcwX3bA-uQ)~~, tương tự như channel NTS, tuy nhiên có thêm những bản dịch sang tiếng Anh của 1 số bài hát.
+
+- YT channel ~~[king Chow](https://www.youtube.com/channel/UCzFsknkoa1BUsap2g_ayqoQ)~~
 
 - YT channel [Joan Chen](https://www.youtube.com/channel/UCmxhGSwldqf5xZ_YSL4j2zQ), có 1 số show "lạ hoắc" và 1 số video mới lạ khác của Beyond (đa số đều là audio).
 
