@@ -72,9 +72,225 @@ Bản mega.nz (chỉ chia làm 2 file: `studio` và `collection`): [Link](https:
 - Link 175CD nhạc: ***UPD 8/7/2018:** đã ngoẻo*
 - Link tổng hợp các video concert chất lượng cao: [Link](http://tieba.baidu.com/p/3793434383)
 
-### Anita Mai Diễm Phương
+### Anita Mai Diễm Phương (UPD 15/8/2018)
 
-Link mới chết nên đang kiếm lại, sẽ share sau. Có lẽ việc bắt bản quyền khá chặt nên rất khó tìm được link down album lossless của Mui.
+- Link nguồn 69CD nhạc: [Link](http://blog.sina.com.cn/s/blog_6905ce300101k0w6.html)
+
+<details>
+    <summary>Bấm vào đây để xem rõ nếu như không thể lấy link từ trang trên.</summary>
+    <table>
+        <tr>
+            <th>Tên album</th>
+            <th>Link (pan.baidu.com)</th>
+            <th>Trạng thái link</th>
+        </tr>
+        <tr>
+            <td>1982-心债[华星DSD原版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=2657848698&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1983-赤色[华星东芝首版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=898441851&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1984-飞跃舞台[东芝1A2TO][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=900002834&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1985-坏女孩[东芝1A2][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=901807306&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1985-蔓珠莎华[新加坡限量复刻版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=903158600&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1985-梅艳芳[日本东芝版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=904526466&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1986-妖女[华星唱片东芝1M版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=906355708&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1987-烈焰红唇[日本东芝版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=908375235&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1987-烈焰红唇[新加坡限量复刻版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=910325576&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1987-似火探戈[华星东芝1A1 TO版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=911879728&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1988-百变梅艳芳再展光华87-88演唱会[华星日本天龙虚字版]WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=2514462173&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1988-梦里共醉[粤语][华星首版天龙虚字版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=932283433&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1989-In Brazil 夏日恋人[东芝1M版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=933775039&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1989-淑女[粤语][华星东芝1M TO版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=935232072&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1990-百变梅艳芳 夏日耀光华演唱会 2CD[日本东芝 1A1 TO 版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=936788812&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1990-封面女郎[华星东芝版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=938544586&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1991-亲密爱人[滚石中价版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=940307689&uk=2855537728">Link</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>1991-欲望野兽街[东芝1A2][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=942364785&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1992-The Legend Of Pop Queen Part I [华星唱片][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=1359768272&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1992-The Legend Of Pop Queen Part II [华星唱片][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=2498959444&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1992-光辉岁月特辑[新丽声][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=1086715982&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1993-钻石旅程系列4CD[华星唱片][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=1088611715&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1994-是这样的[香港首版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=1093569417&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1994-小心[华星唱片][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=1096397834&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1995-歌之女[华星唱片][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=919215379&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1995-一个美丽的回向演唱会2CD[华星唱片][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=921453345&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1996-我们不哭了EP[香港][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=923151129&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1997-芳踪乍现台北演唱实录[台湾首版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=924847760&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1997-镜花水月[香港][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=1102524945&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1997-女人花[BMG原版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=1797778737&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1998-变奏[香港][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=2019804938&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1998-床前明月光[BMG原版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=3079101448&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1998-情歌Ⅰ 2CD[华星唱片][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=1339598780&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1998-情歌Ⅱ 2CD[华星唱片][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=2280964696&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1999-Larger than life[华星唱片][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=1965739284&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>1999-没话说[BMG原版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=3270864300&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>2000-I'm So Happy[首版][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=3278774500&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>2002-With[香港][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=2906652983&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>2002-梅艳芳极梦幻演唱会2CD[香港][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=2902985013&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+        <tr>
+            <td>2004-芳华绝代 (纪念梅艳芳逝世一周年)3CD[华星唱片][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=2426323116&uk=2855537728">Link</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2004-梅·忆录3CD[华星唱片][WAV]</td>
+            <td><a href="https://pan.baidu.com/share/link?shareid=2151700936&uk=2855537728">Link</a></td>
+            <td>✓</td>
+        </tr>
+    </table>
+</details>
 
 ### Hacken Lý Khắc Cần (UPD 29/7/2018)
 
@@ -82,7 +298,7 @@ Link mới chết nên đang kiếm lại, sẽ share sau. Có lẽ việc bắt
 
 <details>
     <summary>Bấm vào đây để xem rõ nếu như không thể lấy link từ trang trên.</summary>
-        <table>
+    <table>
         <tr>
             <th>Tên album</th>
             <th>Link (pan.baidu.com)</th>
