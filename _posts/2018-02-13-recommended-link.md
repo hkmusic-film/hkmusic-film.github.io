@@ -720,9 +720,10 @@ Bao gồm những channel YouTube nên xem về nhạc và phim.
 
 - Nick chiasenhac của 1 số thành viên: [nhoxtix](http://search.chiasenhac.vn/search.php?mode=username&order=time&s=nhoxtix), có nhiều nhạc HK và nhạc TQ khác; [mình](http://search.chiasenhac.vn/search.php?mode=username&order=time&s=sueruan012), chuyên up nhạc HK nhưng chưa nhiều, tự sướng tí =))
 
-> **BIG UPD 13/8/2018**: Kênh `冬菇粒粒頭` còn sống nhưng đã bay hết vid.
+- YT channel [冬菇粒粒頭](https://www.youtube.com/channel/UClgaD_-kjCFogL7C6QTX2tg), chuyên up video về HK, đặc biệt là video HD concert của các ca sĩ HK. Xem sướng mê cả người.
 
-- YT channel ~~[冬菇粒粒頭](https://www.youtube.com/channel/UClgaD_-kjCFogL7C6QTX2tg)~~, chuyên up video về HK, đặc biệt là video HD concert của các ca sĩ HK. Xem sướng mê cả người.
+> **BIG UPD 13/8/2018**: Kênh `冬菇粒粒頭` còn sống nhưng đã bay hết vid.
+> **UPD 28/9/2018**: Kênh `冬菇粒粒頭` đã hiện lại các vid.
 
 - YT channel [Đức Phương Phạm](https://www.youtube.com/channel/UC3jV2dgFZ6zI_Qm4g7d4e5w), nên xem phim và nhạc phim 1 số phim HK ở đây.
 
