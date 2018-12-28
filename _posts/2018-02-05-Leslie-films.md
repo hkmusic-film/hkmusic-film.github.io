@@ -242,8 +242,8 @@ tags: [film, link, Leslie Cheung]
 		<td>1993</td>
 		<td>Bạch phát ma nữ (白髮魔女傳)</td>
 		<td>Trác Nhất Hàng (卓一航)</td>
-		<td><a href="https://mega.nz/#!9E51hCDT!37BL4wJS7nZyXHgGV0MgcdEGYa1yJyq6LmlGjl9yogQ">Link</a></td>
-		<td></td>
+		<td><a href="https://drive.google.com/drive/folders/0B8UcCKjm09-TfkZheGp0T1RMcmU1cG9uSkQzbEl2Y3FxUGVPa1QxOWctbjVqcWJySFpjTHM">Link (4 part của 1 file rar)</a></td>
+		<td>✓</td>
 	</tr>
 	<tr>
 		<td>1993</td>
