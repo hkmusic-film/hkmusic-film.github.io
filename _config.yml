@@ -50,7 +50,7 @@ license: MIT License
 
 
 # theme variables, change this to make site looks best.
-baseurl: /
+baseurl: /old-site
 paginate: 8
 
 
